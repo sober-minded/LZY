@@ -14,6 +14,26 @@
 
 ## **学习笔记**
 
+1. ***关于水的认识***
+![笔记1](LZY/images/1.jpg)
+![笔记2](LZY/images/2.jpg)
+
+2. ***我国水资源状况***
+![笔记3](LZY/images/3.jpg)
+![笔记4](LZY/images/4.jpg)
+![笔记5](LZY/images/5.jpg)
+![笔记6](LZY/images/6.jpg)
+
+3. ***人工智能AI与人工水文学***
+![笔记7](LZY/images/7.jpg)
+![笔记8](LZY/images/8,jpg)
+
+4. ***Python Basic & Markdown Guide***
+![笔记9](LZY/images/10.jpg)
+![笔记10](LZY/images/10.jpg)
+
+
+
 
 
    
