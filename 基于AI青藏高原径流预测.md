@@ -26,7 +26,7 @@
 
 3. ***人工智能AI与人工水文学***
 ![笔记7](LZY/images/7.jpg)
-![笔记8](LZY/images/8,jpg)
+![笔记8](LZY/images/8.jpg)
 
 4. ***Python Basic & Markdown Guide***
 ![笔记9](LZY/images/10.jpg)
